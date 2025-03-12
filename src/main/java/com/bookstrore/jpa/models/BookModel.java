@@ -2,6 +2,7 @@ package com.bookstrore.jpa.models;
 
 import com.bookstrore.jpa.models.base.EntityBase;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
